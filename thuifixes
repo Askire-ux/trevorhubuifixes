@@ -12,10 +12,10 @@ game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Index.Sailing.Text 
 -- Discord Tab Information
 
 game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Title.Text = "Discord"
---game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc1.Name = "Desc" -- remember to remove this
 game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc.Name = "Desc1"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc.Name = "Desc2"
 game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc1.Text = "You can (and should) join the Th Discord as it will provide faster changelogs, and even some sneak peeks. :) "
-game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc.Text = "<Discord> discord.gg/2fqdTGc6gy"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc2.Text = "<Discord> discord.gg/2fqdTGc6gy"
 game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Size = (UDim2.new(0,300,0,160))
 
 -- Training Tab Information
