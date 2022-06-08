@@ -1,0 +1,37 @@
+-- Title & Description
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Title.Text = "TrevorHub"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Desc.Text = "This might be unexpected for you.. 'why would TrevorHub mess with the help menu?!"
+
+
+-- Tabs
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Index.Controls.Text = "Discord"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Index.Training.Text = "Changelog"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Index.Resting.Text = "Rules"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.TutorialFrame.Index.Sailing.Text = "Credits"
+
+-- Discord Tab Information
+
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Title.Text = "Discord"
+--game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc1.Name = "Desc" -- remember to remove this
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc.Name = "Desc1"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc1.Text = "You can (and should) join the Th Discord as it will provide faster changelogs, and even some sneak peeks. :) "
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Desc.Text = "<Discord> discord.gg/2fqdTGc6gy"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Controls.Size = (UDim2.new(0,300,0,160))
+
+-- Training Tab Information
+
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Training.Title.Text = "Changelog"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Training.Desc.Text = "[+] Campfire Exploit\n[+] Entire new Deepwoken Help Menu\n[+] Mini-Changes to the UI."
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Training.Size = (UDim2.new(0,300,0,140))
+
+-- Rules Tab Information
+
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Resting.Title.Text = "Rules"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Resting.Desc.Text = "- You are not allowed to share your TrevorHub key, no matter the version.\n  ^ Doing so will blacklist both you & the other person. ^\n\n- Reporting/Clipping other people using TrevorHub is STRICTLY forbidden.\n\n- Rules may be added or removed without warning, it is your fault if you break them."
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Resting.Size = (UDim2.new(0,300,0,230))
+
+-- Credits Tab Information
+
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Sailing.Title.Text = "Credits"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Sailing.Desc.Text = "> Askire (UI, edited UI Lib, horseshit lua coder)\n\n> Duckman (ESP, Fly, NoClip, Speed, etc.. (movement & local features) )\n\n > Ukiyo (Sex SCRIPTS!!!!, Healthbar ESP, Chat Logger, most QoL features)\n\n> Jamesex (Webhooks, Whitelist/Blacklist, Discord Bot)"
+game.Players.LocalPlayer.PlayerGui.TutorialGui.Headings.Sailing.Size = (UDim2.new(0,300,0,230))
